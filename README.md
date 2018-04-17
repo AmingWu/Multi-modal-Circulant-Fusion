@@ -15,3 +15,8 @@ This repository is the source code of `Multi-modal Circulant Fusion (MCF) for Te
 ```
 python main.py
 ```
+
+## Examples
+- Examples of regression results on TACoS. The gray row shows the ground truth for the given query. The blue row shows the prediction of CTRL. The green row shows the prediction of our method.
+
+![result_example](./result_example.png)
